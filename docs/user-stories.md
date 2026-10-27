@@ -1,5 +1,12 @@
 # User stories
 
+El següent document parteix de la base d'un negoci menut en el que el propietari busca digitalitzar el seu negoci per tal de poder gestionar amb major agilitat i eficacia una guarderia canina.
+
+Es tracta aleshores d'una empresa que ofereix serveis. En aquestes empreses la digitalització i la centralització de informació dels clients és una de les necessitats. El projecte de Gestor de Guarderia Canina respon a algunes d'aquestes necessitats mitjançant la gestió de les fitxes dels gossos, les reserves i el calendari d'estades.
+
+L'estructura és simple amb un propietari que exerceix de cap i amb dos o tres empleats que gestionen el serveis als clients i gossos.
+
+
 Com a client vull reservar un lloc a la guarderia canina
     - Funcionalitats:
         - Fer una reserva telefònica
