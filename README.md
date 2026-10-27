@@ -1,16 +1,18 @@
 # Projecte intermodular 2n DAM Semipresencial
+
+## WIREFRAMES es troben a `img/wireframes`
+
 Aquest projecte utilitza: 
 
-Metodologia *AGILE* https://agilemanifesto.org/iso/ca/principles.html
+Metodologia **AGILE** https://agilemanifesto.org/iso/ca/principles.html
 
-*Trello* per organitzar el treball i els sprints https://trello.com/b/SO1R63oZ/projecte-intermodular  
+**Trello** per organitzar el treball i els sprints https://trello.com/b/SO1R63oZ/projecte-intermodular  
 
-*Draw.io* i *Figma* per a crear els wireframes https://www.figma.com/files/folder/503564355  
+**Draw.io** i **Figma** per a crear els wireframes `img/wireframes`
 
-Modeladge Base de Dades amb *dbdiagram.io*
+Modeladge Base de Dades amb **dbdiagram.io**
 
 # STACK
-
 Frontend:
 - HTML + CSS + JS
 - BOOTSTRAP
